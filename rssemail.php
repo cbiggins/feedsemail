@@ -16,7 +16,7 @@ $email_to_name = 'First Last';
 $email_to_addr = 'first.last@example.com';
 
 // Our email subject.
-$email_subject = "Your daily feeds email."
+$email_subject = "Your daily feeds email.";
 
 // All the feeds we want to fetch.
 $feeds = array(
